@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication4", "ConsoleApplication4\ConsoleApplication4.csproj", "{F996DD4F-D9FF-435D-A0BC-2446C172F8B7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/iherb%20projects%20collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleApplication4\\ConsoleApplication4.csproj
+		SccProjectName1 = ConsoleApplication4
+		SccLocalPath1 = ConsoleApplication4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F996DD4F-D9FF-435D-A0BC-2446C172F8B7}.Debug|x86.ActiveCfg = Debug|x86
+		{F996DD4F-D9FF-435D-A0BC-2446C172F8B7}.Debug|x86.Build.0 = Debug|x86
+		{F996DD4F-D9FF-435D-A0BC-2446C172F8B7}.Release|x86.ActiveCfg = Release|x86
+		{F996DD4F-D9FF-435D-A0BC-2446C172F8B7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
