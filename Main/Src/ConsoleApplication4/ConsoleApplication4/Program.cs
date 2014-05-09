@@ -65,8 +65,6 @@ namespace ConsoleApplication4
             Console.WriteLine(print);
             Console.WriteLine("Hello World");
             Console.WriteLine("string");
-			
-			//Hi
 
             int a = Convert.ToInt32(Console.ReadLine());
             int b = Convert.ToInt32(Console.ReadLine());
